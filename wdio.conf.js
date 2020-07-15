@@ -24,6 +24,7 @@ exports.config = {
   //
   specs: [
     './test/specs/mainPageHeaderTest.js'
+    //'./test/specs/*.spec.js'
   ],
   // Patterns to exclude.
   exclude: [
