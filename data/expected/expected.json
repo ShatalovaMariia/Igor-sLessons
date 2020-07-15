@@ -2,5 +2,9 @@
   "TSC1" : {
     "searchKeyWord": "Iphone"
 
+  },
+
+  "TSC2": {
+    "searchKeyWord": "Laptop"
   }
 }
